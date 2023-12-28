@@ -4,9 +4,13 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 미세먼저 분석 프로젝트 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 프로젝트 일정 : 2023.11. 15 ~ 2023.12.28</li>
+        <hr>
         참여인원 : 5명</li>
+        <hr>
         프로젝트 내용: 미세먼지 분석 프로젝트</li>
+        <hr>
         내가 맡은 내용: 데이터 크롤링 및 생활지수 그래프 시각화 및 구현 회원등급 기준 설계</li>
+        <hr>
     </div> 
     </div>
     <div style="text-align: left;">
